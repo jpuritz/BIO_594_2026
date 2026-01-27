@@ -7,7 +7,7 @@ Feel free to come by during this time without an appointment, otherwise schedule
 #### Email: jpuritz@uri.edu  Phone: 401-874-9020
 *I will do my best to respond promptly during business hours (M-F: 9-5)*
 
-## Meeting Time and Location for Spring 2025
+## Meeting Time and Location for Spring 2026
 #### Thursdays, 2:00 PM to 4:30 PM
 #### Avedisian 403
 
@@ -50,26 +50,26 @@ Students must bring their own laptop (Mac, Windows, or Linux) with the capabilit
 We will be doing the majority of our problem sets and code documentation in RMarkDown on GitHub via RStudio or VSCode. Please familiarize yourself with by downloading a local installation.  We will be using a server based version to unify our bioinformatics and analysis.
 
 ## Schedule
-Updated 1/08/2025 and still subject to change
+Updated 1/27/2026 and still subject to change
 
 | Date    | Week | Topic                                                                    | Reading                                               | Exercises and Problem Sets |
 | ------- | ---- | ------------------------------------------------------------------------ | ----------------------------------------------------- | -------------------------- |
-| 1/23/25 | 1    | Course Intro and Computer Setup and Testing                              | None                                                  |                            |
-| 1/30/25 | 2    | NO CLASS- Github, Rmarkdown, and open science using RStudio              | [Web Links](/Lectures/Week_02/Readme.md); [BES Guide to Open Science](/Readings/Week_02/BES-Guide_to_reproducible_code.pdf);  Text Book Chapters: 1-4 |                             | Exercise 1                 |
-| 2/06/25  | 3    | Introduction to Phenotypic and Genetic Variaiton and Population Genomics | Text Book Chapters: 1-4                               | Exercise 1                 |
-| 2/13/25 | 4    | Probability and Random Mating Populations: HWE                           | Appendix, Chap 5                                      | None                       |
-| 2/20/25 | 5    | Effective Population Size and Genetic Drift                              | Text Book Chapters: 6-7                               | Prob Set 1                 |
-| 2/27/25 | 6    | Natual Selection and Population Structure                                | Text Book Chapters: 8-9                               | Prob Set 2                 |
-| 3/06/25 | 7    | Genetics to Genomics                                                     | Text Book Chapters: 10-12                             | Prob Set 3                 |
-| 3/13/25 |      | SPRING BREAK!!                                                           |                                                       |                            |
-| 3/20/25 | 8    | Exploited Populations and Climate Change & Unix Command Line             | Text Book Chapters: 15-16                             | Prob Set 4                 |
-| 3/27/25 | 9    | NGS Data Structures- Visualization and Manipulation                      |                                                       |                            |
-| 4/03/25 | 10   | RADseq: De novo assembly and read mapping                                |                                                       |                            |
-| 4/10/25 | 11   | RADseq: SNP Calling and Filtering                                        |                                                       |                            |
-| 4/17/25 | 12   | Detecting Loci Under Selection                                           |                                                       |                            |
-| 4/24/25 | 13   | Analyzing Population Structure                                           |                                                       |                            |
-| 5/10/25  |      | FINAL PROJECTS DUE                                                       |                                                       |                            |
-| 5/31/25 |      | ALL CLASS USER ACCOUNTS DELETED FROM KITT                                | Contact Dr. Puritz if you need different arrangements |                            | 
+| 1/28/26 | 1    | Course Intro and Computer Setup and Testing                              | None                                                  |                            |
+| 2/04/26 | 2    | NO CLASS- Github, Rmarkdown, and open science using RStudio              | [Web Links](/Lectures/Week_02/Readme.md); [BES Guide to Open Science](/Readings/Week_02/BES-Guide_to_reproducible_code.pdf);  Text Book Chapters: 1-4 |                             | Exercise 1                 |
+| 2/11/26  | 3    | Introduction to Phenotypic and Genetic Variaiton and Population Genomics | Text Book Chapters: 1-4                               | Exercise 1                 |
+| 2/18/26 | 4    | Probability and Random Mating Populations: HWE                           | Appendix, Chap 5                                      | None                       |
+| 2/25/26 | 5    | Effective Population Size and Genetic Drift                              | Text Book Chapters: 6-7                               | Prob Set 1                 |
+| 3/04/26 | 6    | Natual Selection and Population Structure                                | Text Book Chapters: 8-9                               | Prob Set 2                 |
+| 3/11/26 | 7    | Genetics to Genomics                                                     | Text Book Chapters: 10-12                             | Prob Set 3                 |
+| 3/18/26 |      | SPRING BREAK!!                                                           |                                                       |                            |
+| 3/25/26 | 8    | Exploited Populations and Climate Change & Unix Command Line             | Text Book Chapters: 15-16                             | Prob Set 4                 |
+| 4/01/26 | 9    | NGS Data Structures- Visualization and Manipulation                      |                                                       |                            |
+| 4/08/26 | 10   | RADseq: De novo assembly and read mapping                                |                                                       |                            |
+| 4/15/26 | 11   | RADseq: SNP Calling and Filtering                                        |                                                       |                            |
+| 4/22/26 | 12   | Detecting Loci Under Selection                                           |                                                       |                            |
+| 4/29/26 | 13   | Analyzing Population Structure                                           |                                                       |                            |
+| 5/10/26  |      | FINAL PROJECTS DUE                                                       |                                                       |                            |
+| 5/31/26 |      | ALL CLASS USER ACCOUNTS DELETED FROM KITT                                | Contact Dr. Puritz if you need different arrangements |                            | 
 
 
 ## Grading
